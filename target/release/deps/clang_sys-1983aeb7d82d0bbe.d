@@ -1,0 +1,14 @@
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/deps/clang_sys-1983aeb7d82d0bbe.rmeta: /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/macros.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/common.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/dynamic.rs
+
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/deps/libclang_sys-1983aeb7d82d0bbe.rlib: /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/macros.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/common.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/dynamic.rs
+
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/deps/clang_sys-1983aeb7d82d0bbe.d: /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/macros.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/common.rs /Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/dynamic.rs
+
+/Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs:
+/Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs:
+/Users/YPFPHYR4V1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs:
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/macros.rs:
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/common.rs:
+/Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/YPFPHYR4V1/Personal/src/invaders/target/release/build/clang-sys-f87b799a4d35af4b/out
